@@ -1,0 +1,124 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "title": "Neon Wanderer",
+      "artist": {
+        "name": "Cygnus",
+        "avatarUrl": "https://picsum.photos/seed/ava1/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1583339793392-23c7b2756857?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "cyberpunk character"
+    },
+    {
+      "id": "2",
+      "title": "Whispering Woods",
+      "artist": {
+        "name": "Sylva",
+        "avatarUrl": "https://picsum.photos/seed/ava2/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1617881358163-5d9e5b35b6f3?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "fantasy landscape"
+    },
+    {
+      "id": "3",
+      "title": "Mechanized Angel",
+      "artist": {
+        "name": "Unit-734",
+        "avatarUrl": "https://picsum.photos/seed/ava3/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1639815189158-b3b3c37c2a7a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "sci-fi angel"
+    },
+    {
+      "id": "4",
+      "title": "Tears of the Sea",
+      "artist": {
+        "name": "Nixie",
+        "avatarUrl": "https://picsum.photos/seed/ava4/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1604505324422-7cdf8456a847?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "sad woman"
+    },
+    {
+      "id": "5",
+      "title": "Metropolis Prime",
+      "artist": {
+        "name": "Apex",
+        "avatarUrl": "https://picsum.photos/seed/ava5/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "futuristic city"
+    },
+    {
+      "id": "6",
+      "title": "Valkyrie's Ascent",
+      "artist": {
+        "name": "Eira",
+        "avatarUrl": "https://picsum.photos/seed/ava6/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1601627961234-9e3656112765?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "female warrior"
+    },
+    {
+      "id": "7",
+      "title": "Ronin's Resolve",
+      "artist": {
+        "name": "Kaito",
+        "avatarUrl": "https://picsum.photos/seed/ava7/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1604213410113-3b684239f159?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "samurai warrior"
+    },
+    {
+      "id": "8",
+      "title": "Ephemeral Gaze",
+      "artist": {
+        "name": "Lina",
+        "avatarUrl": "https://picsum.photos/seed/ava8/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1614022343194-2856c52041b3?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "9",
+      "title": "Clockwork Heart",
+      "artist": {
+        "name": "Cogsworth",
+        "avatarUrl": "https://picsum.photos/seed/ava9/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1641842241611-6d795c6934c2?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "steampunk art"
+    },
+    {
+      "id": "10",
+      "title": "Wyvern's Peak",
+      "artist": {
+        "name": "Draco",
+        "avatarUrl": "https://picsum.photos/seed/ava10/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1615822362524-81493549a1ad?q=80&w=1914&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "dragon art"
+    },
+    {
+      "id": "11",
+      "title": "Mage's Study",
+      "artist": {
+        "name": "Althea",
+        "avatarUrl": "https://picsum.photos/seed/ava11/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "fantasy library"
+    },
+    {
+      "id": "12",
+      "title": "Nebula's Embrace",
+      "artist": {
+        "name": "Celeste",
+        "avatarUrl": "https://picsum.photos/seed/ava12/40/40"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1506443432602-ac2fcd6f54e0?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "galaxy woman"
+    }
+  ]
+}
